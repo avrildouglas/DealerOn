@@ -1,0 +1,52 @@
+/* Cascading Style Sheets (CSS) Document
+ Author: Avril Douglas 
+ February 28, 2018 */
+
+
+body {
+  font-family: sans-serif;
+  background-color: #cab577;
+  color: #333;
+  padding: 20px 0 28px 0;
+  margin: 0;
+}
+
+.app-title {
+  text-align: center;
+  font-weight: normal;
+  font-size: 2.6rem;
+}
+
+.person {
+  max-width: 850px;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: #FFF;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+  overflow: hidden;
+}
+
+.person h4 {
+  margin: 0 0 6px 0;
+}
+
+.genius-image {
+  float: left;
+  width: 40%;
+  margin-right: 15px;
+}
+
+.genius-name {
+  font-size: 2;
+  font-weight: bold;
+  margin: 0 0 1rem 0;
+}
+
+.footer {
+  font-size: .8rem;
+  font-weight: bold; 
+  font-style: italic;
+  color: #bd5734;
+  text-align: center;
+  margin: 0;
+}
